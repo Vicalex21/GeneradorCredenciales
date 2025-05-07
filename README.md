@@ -15,5 +15,5 @@ Para lograr esto de forma eficiente y organizada, se implementan los patrones de
 
 ## Como Ejecutar
 
-git clone https://github.com/Vicalex21/proyectopatrones0705.git  
-cd proyectopatrones0705
+https://github.com/Vicalex21/GeneradorCredenciales.git  
+cd GeneradorCredenciales
