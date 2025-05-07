@@ -34,7 +34,7 @@ cd GeneradorCredenciales
 **2. Compilar Archivos .java**   
 
 **Copie**  
-javac -d . ".\ProyectoPatrones0705\src\proyectopatrones0705\*.java"
+javac -d . ./ProyectoPatrones0705/src/proyectopatrones0705/*.java
 
 **3. Ejecutar el Programa**  
 
