@@ -20,7 +20,8 @@ Cree una nueva carpeta, copie la direccion y peguela (en este caso PowerShell)
 **Ejemplo**  
 cd C:\Users\Acer\Desktop\Patrones  
 
-**Luego**
+**Luego**  
+
 ya estando en la carpeta desde consola copie  
 
 git clone https://github.com/Vicalex21/GeneradorCredenciales.git 
