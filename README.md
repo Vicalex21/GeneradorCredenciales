@@ -14,18 +14,20 @@ Para lograr esto de forma eficiente y organizada, se implementan los patrones de
 
 
 ## Como Ejecutar  
-**Clonar el repositorio**  
+**1. Clonar el repositorio**  
 
 
 git clone https://github.com/Vicalex21/GeneradorCredenciales.git  
 cd GeneradorCredenciales/ProyectoPatrones0705  
 
 
-**Compilar Archivos .java**  
-PowerShell  
+**2. Compilar Archivos .java**   
+
+
+PowerShell    
 javac -d . .\src\proyectopatrones0705\*.java
 
 
-Ejecutar el Programa  
+**3. Ejecutar el Programa**    
 java proyectopatrones0705.Main
 
