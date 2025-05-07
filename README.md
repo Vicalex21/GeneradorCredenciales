@@ -16,20 +16,29 @@ Para lograr esto de forma eficiente y organizada, se implementan los patrones de
 ## Como Ejecutar  
 **1. Clonar el repositorio**  
 
+Cree una nueva carpeta, copie la direccion y peguela (en este caso PowerShell)
+**Ejemplo**  
+cd C:\Users\Acer\Desktop\Patrones  
 
-git clone https://github.com/Vicalex21/GeneradorCredenciales.git  
-cd GeneradorCredenciales/ProyectoPatrones0705  
+**Luego**
+ya estando en la carpeta desde consola copie  
+
+git clone https://github.com/Vicalex21/GeneradorCredenciales.git 
+
+**Despues**  
+
+cd GeneradorCredenciales 
 
 
 **2. Compilar Archivos .java**   
 
-
-PowerShell    
-javac -d . .\src\proyectopatrones0705\*.java
+**Copie**  
+javac -d . .\ProyectoPatrones0705\src\proyectopatrones0705\*.java
 
 
 **3. Ejecutar el Programa**  
 
+**Copie**  
 java proyectopatrones0705.Main
 
 # 🧬Patrón Prototype – Aplicación
