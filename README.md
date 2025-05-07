@@ -90,3 +90,15 @@ Ingrese el nombre del evento: Ingrese el nombre del evento:
 
 # 📸 Captura del sistema funcionando
 
+
+**1. Registrar nombre del evento**
+![1](https://github.com/user-attachments/assets/b6da2fdc-8542-401e-9125-fa34802ff23d)  
+
+
+**2. Agregar Credenciales**  
+![2](https://github.com/user-attachments/assets/5f0e89a9-a748-476b-ad99-d851feca0ce3)
+
+**Ver Credenciales**
+![3](https://github.com/user-attachments/assets/ab05989f-68fd-4074-9d86-fe4f41c401d1)
+
+
