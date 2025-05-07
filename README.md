@@ -32,6 +32,5 @@ javac -d . .\src\proyectopatrones0705\*.java
 
 java proyectopatrones0705.Main
 
-
-#🧬 Patrón Prototype – Aplicación
+# Patrón Prototype – Aplicación
 
