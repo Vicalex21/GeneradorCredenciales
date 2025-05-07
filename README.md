@@ -32,5 +32,28 @@ javac -d . .\src\proyectopatrones0705\*.java
 
 java proyectopatrones0705.Main
 
-# Patrón Prototype – Aplicación
+# 🧬Patrón Prototype – Aplicación
 
+La clase credencial evento implementa el patron de diseño Prototype mediante la interfaz Cloneable. Esto permite crear nuevas credenciales a partir de una plantilla base de forma eficiente, sin necesidad de instanciar objetos desde cero.  
+
+**Ejemplo de uso**  
+
+
+CredencialEvento plantilla = new CredencialEvento("Vicente", "Organizador", "22.222.222-2");
+CredencialEvento clon = plantilla.clone();
+System.out.println(clon);
+
+**Salida esperada**  
+
+Nombre: Vicente, Cargo: Organizador, RUT: 22.222.222-2
+
+# 🔒Patrón Singleton – Aplicación  
+
+La clase ConfiguracionEvento aplica el patron Singleton, garantizando una unica instancia con el nombre del evento
+
+**Ejemplo de uso**  
+
+ConfiguracionEvento config = ConfiguracionEvento.getInstance("Nombre del Evento");
+System.out.println(config.getNombreEvento());
+
+Esto asegura que la configuración del evento sea única y accesible desde cualquier parte del sistema.
