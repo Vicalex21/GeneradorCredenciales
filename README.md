@@ -76,3 +76,8 @@ Ingrese el nombre del evento: Ingrese el nombre del evento:
 
 # 📊Diagrama de Clases (UML)
 ![WhatsApp Image 2025-05-07 at 3 43 48 PM](https://github.com/user-attachments/assets/9c36f860-58e7-4f7f-aaa2-da931fafeffb)
+
+
+
+# 📸 Captura del sistema funcionando
+
