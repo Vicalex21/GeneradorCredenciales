@@ -13,7 +13,19 @@ Cada credencial contiene datos como nombre, cargo y RUT del participante.
 Para lograr esto de forma eficiente y organizada, se implementan los patrones de diseño Singleton, para manejar la configuración general del evento y Prototype para clonar una plantilla base de credencial y así evitar crear cada una desde cero.
 
 
-## Como Ejecutar
+## Como Ejecutar  
+**Clonar el repositorio**  
 
-https://github.com/Vicalex21/GeneradorCredenciales.git  
-cd GeneradorCredenciales
+
+git clone https://github.com/Vicalex21/GeneradorCredenciales.git  
+cd GeneradorCredenciales/ProyectoPatrones0705  
+
+
+**Compilar Archivos .java**  
+PowerShell  
+javac -d . .\src\proyectopatrones0705\*.java
+
+
+Ejecutar el Programa  
+java proyectopatrones0705.Main
+
