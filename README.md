@@ -28,6 +28,7 @@ PowerShell
 javac -d . .\src\proyectopatrones0705\*.java
 
 
-**3. Ejecutar el Programa**    
+**3. Ejecutar el Programa**  
+
 java proyectopatrones0705.Main
 
