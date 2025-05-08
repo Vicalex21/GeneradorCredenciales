@@ -47,10 +47,8 @@ La clase credencial evento implementa el patron de diseño Prototype mediante la
 
 **Ejemplo de uso**  
 
+![4](https://github.com/user-attachments/assets/e3b8d033-8ad9-4445-8d73-add7f9624af4)
 
-CredencialEvento plantilla = new CredencialEvento("Vicente", "Organizador", "22.222.222-2");
-CredencialEvento clon = plantilla.clone();
-System.out.println(clon);
 
 **Salida esperada**  
 
@@ -62,8 +60,8 @@ La clase ConfiguracionEvento aplica el patron Singleton, garantizando una unica 
 
 **Ejemplo de uso**  
 
-ConfiguracionEvento config = ConfiguracionEvento.getInstance("Nombre del Evento");
-System.out.println(config.getNombreEvento());
+![5](https://github.com/user-attachments/assets/25b29c0c-05e2-41e4-8528-1570211f8cef)
+
 
 Esto asegura que la configuración del evento sea única y accesible desde cualquier parte del sistema.
 
