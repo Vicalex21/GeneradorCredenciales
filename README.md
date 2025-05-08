@@ -88,15 +88,16 @@ Ingrese el nombre del evento: Ingrese el nombre del evento:
 
 # 📸 Captura del sistema funcionando
 
-
 **1. Registrar nombre del evento**  
-![1](https://github.com/user-attachments/assets/b6da2fdc-8542-401e-9125-fa34802ff23d)  
+![6](https://github.com/user-attachments/assets/502f6f8b-2239-4b60-90e2-f0f8d50dbf62)
 
 
 **2. Agregar Credenciales**  
-![2](https://github.com/user-attachments/assets/5f0e89a9-a748-476b-ad99-d851feca0ce3)
+![7](https://github.com/user-attachments/assets/a2e5766f-53b0-47e6-893c-86ff2334c40b)
+
 
 **3. Ver Credenciales**  
-![3](https://github.com/user-attachments/assets/ab05989f-68fd-4074-9d86-fe4f41c401d1)
+![8](https://github.com/user-attachments/assets/6a69da01-8c3f-4fa7-8f10-7a488e2a1300)
+
 
 
